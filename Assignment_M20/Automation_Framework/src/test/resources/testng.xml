@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="Test Automation Framework">
+    <test name="Test Get, Post, Put, Patch, dan Delete Reqres">
+        <classes>
+            <class name="automation_framework_test.testscript"/>
+        </classes>
+    </test>
+</suite>
